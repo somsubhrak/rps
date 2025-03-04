@@ -8,6 +8,7 @@ TagManager:
   - Rock
   - Scissors
   - rock
+  - AI
   layers:
   - Default
   - TransparentFX
